@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Fira Code:pixelsize=15:style=Regular:antialias=true:autohint=true";
+static char *font = "terminus:pixelsize=15:style=Regular";
 static int borderpx = 6;
 
 /*
